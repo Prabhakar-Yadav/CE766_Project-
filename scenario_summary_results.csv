@@ -1,0 +1,6 @@
+Scenario,Composite_CN,Storage_Capacity_mm,Capture_Fraction_alpha,Mean_Annual_Runoff_mm_yr,Runoff_Reduction_pct,Mean_Annual_Net_Recharge_mm_yr,Recharge_Increase_pct,Natural_Percolation_mm_yr,Seepage_Recharge_mm_yr,Structure_Evaporation_mm_yr,Dry_Year_2016_Runoff_mm,Dry_Year_2016_Recharge_mm,Wet_Year_2019_Runoff_mm,Wet_Year_2019_Recharge_mm,Mass_Balance_Closure_Error_mm
+Baseline (S0),78.0,0.0,0.0,19.59,0.0,127.82,0.0,127.82,0.0,0.0,2.28,15.24,54.71,386.02,0.00e+00
+Check Dams (S1),78.0,15.0,0.6,8.02,59.1,133.16,4.2,127.82,5.35,6.22,0.91,15.31,23.91,404.27,-1.82e-12
+Farm Ponds (S2),78.0,10.0,0.35,12.73,35.0,129.02,0.9,127.82,1.21,5.65,1.48,15.24,35.56,391.58,0.00e+00
+Afforestation (S3),72.0,0.0,0.0,8.46,56.8,135.84,6.3,135.84,0.0,0.0,0.09,15.7,25.89,413.39,-1.82e-12
+Combined Portfolio (S4),72.0,25.0,0.95,2.2,88.8,137.28,7.4,135.84,1.44,4.82,0.02,15.7,6.73,420.12,-1.82e-12

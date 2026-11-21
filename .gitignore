@@ -1,0 +1,15 @@
+# Raw IMD binary and gridded weather datasets
+imd_data/
+*.grd
+*.GRD
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.virtual_documents/
+
+# OS specific files
+.DS_Store
+Thumbs.db
